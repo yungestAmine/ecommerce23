@@ -1,0 +1,93 @@
+var articoli =
+[
+    "iPhone 3",
+    "iPhone 4",
+    "iPhone 5",
+    "iPhone 6",
+    "iPhone 7",
+    "iPhone 8",
+    "iPhone SE",
+    "iPhone X",
+    "iPhone XS",
+    "iPhone XR",
+    "iPhone 11",
+    "iPhone 12",
+    "iPhone 13",
+    "iPhone 14",
+    "AirPods 1",
+    "AirPods 2",
+    "AirPods Pro",
+    "AirPods Max",
+    "iPad 8",
+    "iPad Air",
+    "iPad Pro",
+    "MacBook Air",
+    "MacBook Pro",
+    "iPen",
+    "Chargers"
+]
+
+var images = 
+[
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/IPhone_3G.png/417px-IPhone_3G.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/IPhone_4_Mock_No_Shadow_PSD.png/304px-IPhone_4_Mock_No_Shadow_PSD.png",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fa/IPhone_5.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IPhone6_silver_frontface.png/125px-IPhone6_silver_frontface.png",
+    "https://upload.wikimedia.org/wikipedia/commons/3/32/IPhone_7_black_mock-up.png",
+    "https://m.media-amazon.com/images/I/51nKwWxRJhL._AC_SX385_.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/IPhone_SE_%282nd_generation%29_white_vector.svg/1200px-IPhone_SE_%282nd_generation%29_white_vector.svg.png",
+    "https://upload.wikimedia.org/wikipedia/it/archive/1/1f/20200622080508%21IOS13_iPhoneX.png",
+    "https://www.pngitem.com/pimgs/m/213-2130263_iphone-xs-max-silver-hd-png-download.png",
+    "https://www.pngitem.com/pimgs/m/187-1876613_iphone-xr-red-hd-png-download.png",
+    "https://http2.mlstatic.com/D_NQ_NP_751693-MLA50546279599_072022-V.jpg",
+    "https://www.theiphonewiki.com/w/images/thumb/7/7d/IPhone_13_Pro_Max.png/200px-IPhone_13_Pro_Max.png",
+    "https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1631738554353-583DSZYI5WIL6D7J0X1P/iPhone13mini-ProductRed-PB_iPhone13mini-ProductRed-PF.png",
+    "https://d1qsjop7tycsfb.cloudfront.net/fileadmin/mainbrand/card-device/New-Card-Stile_Vetrina/Smartphone/card-vetr-Apple-iPhone-14-pro-viola.png",
+    "https://i.ebayimg.com/images/g/thcAAOSwxeBZroZd/s-l500.jpg",
+    "https://www.dnddistribuzione.it/files/dnd_Files/Foto/215374_2.PNG",
+    "https://med.csmobiles.com/414113-large_default/apple-airpods-pro-v1-blanco-2019.jpg",
+    "https://www.apple.com/v/airpods-max/e/images/overview/hero__gnfk5g59t0qe_xlarge.png",
+    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-ipad-wifi-gold-2020?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1626464533000",
+    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-ipad-air-wifi-green-2021?wid=1150&hei=1150&fmt=jpeg&qlt=95&.v=1644268592092",
+    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=1664411207212",
+    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-silver-select-20220606?wid=539&hei=365&fmt=jpeg&qlt=95&.v=1653084303678",
+    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-silver-select-20220606?wid=539&hei=365&fmt=jpeg&qlt=95&.v=1653084303678",
+    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MK0C2?wid=400&hei=400&fmt=jpeg&qlt=95&.v=1564075356758",
+    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MU7V2_AV1_GEO_EMEA?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1544204679997"
+]
+var categoria =
+[
+    "iPhone",
+    "Cuffie",
+    "iPad", 
+    "Computer",
+    "Accessori"
+]
+var tipiparallelo = 
+[
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "iPhone",
+    "Cuffie",
+    "Cuffie",
+    "Cuffie",
+    "Cuffie",
+    "iPad",
+    "iPad",
+    "iPad",
+    "Computer",
+    "Computer",
+    "Accessori",
+    "Accessori"
+]
